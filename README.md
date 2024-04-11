@@ -23,7 +23,7 @@ Tailwind CSS
 >
 > It has been programmed for learning purposes
 >
-> This project is based on the original project by Eduardo Fierros and can be found here 👇👇
+> This project is based on the original project by Midudev and can be found here 👇👇
 > [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/midudev/landing-tesla)
 
 
